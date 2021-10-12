@@ -6,6 +6,8 @@ The control database (Healthy Normal database) is obtained from the same website
 
 How to use these scripts is described in INSTRUCTIONS
 
+This code is not tested for clinical use, use at your own discretion.
+
 Developped and tested in SPM12 v7487
 
 Nicole van Klink - July 2021
